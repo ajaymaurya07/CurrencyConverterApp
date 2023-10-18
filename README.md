@@ -4,7 +4,7 @@ to convert one currency to another currency
 
 ## Use Component
 
-ApiModel Class -> retrofit-> repository-> viewmodel(MVVM PATTERN) ->factory
+ApiModel Class -> retrofit-> repository-> viewmodel(MVVM PATTERN) ->factory -> sharedpreferences(for local storege)
 
 # DEMO
 
